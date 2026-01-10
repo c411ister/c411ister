@@ -7,8 +7,8 @@ I like coding, learning new technologies, and solving problems.
 ---
 
 ## Skills
-- **Languages:** Python, C# 
-- **Fields:** Cybersecurity, CTF, Network Security, Penetration Testing
+- **Languages:** Python, C#, Bash
+- **Fields:** Cybersecurity, CTF, Blockchain, Network Security, Penetration Testing, Cryptography
 
 ---
 
@@ -35,7 +35,7 @@ It allows custom length and character sets for different security needs.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
