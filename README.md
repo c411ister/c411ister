@@ -14,19 +14,19 @@ I like coding, learning new technologies, and solving problems.
 
 ## 💻 Projects
 
-### 🔐 [ChaCha20 File Encryptor](https://github.com/MazzaTello/ChaCha20-File-Encryptor)
+### 🔐 [ChaCha20 File Encryptor](https://github.com/c411ister/ChaCha20-File-Encryptor)
 A Python-based tool that encrypts and decrypts files using the ChaCha20 algorithm.  
 It is good for secure file handling and learning about symmetric encryption.
 
-### 🔑 [Password Generator](https://github.com/MazzaTello/password_generator)
+### 🔑 [Password Generator](https://github.com/c411ister/password_generator)
 A simple Python script that generates strong, random passwords.  
 It allows custom length and character sets for different security needs.
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MazzaTello&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazzaTello&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=c411ister&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c411ister&layout=compact&theme=radical)
 
 ---
 
