@@ -14,6 +14,9 @@ I like coding, learning new technologies, and solving problems.
 
 ## 💻 Projects
 
+### ⛓️ [Sui Vulnerable Vault](https://github.com/c411ister/sui_vulnerable_vault)
+A Sui blockchain security example. This project includes vulnerable Move code, a Python-based exploit script, and the secure solution to demonstrate smart contract vulnerabilities.
+
 ### 🔐 [ChaCha20 File Encryptor](https://github.com/c411ister/ChaCha20-File-Encryptor)
 A Python-based tool that encrypts and decrypts files using the ChaCha20 algorithm.  
 It is good for secure file handling and learning about symmetric encryption.
