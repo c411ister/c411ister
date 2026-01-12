@@ -7,13 +7,13 @@ I enjoy breaking things to learn how to build them better.
 ---
 
 ## Skills
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-- **Security:** AI Security(LLM Jailbreaking & Prompt Injection), Offensive Security, Vulnerability Research, Reverse Engineering
-- **Special Interest:** BlockChain(Smart Contract Auditing), Cryptography
+- **Languages:** Python, C#, Bash, Move (Sui)
+- **Security:** AI Security (LLM Jailbreaking & Prompt Injection), Offensive Security, Vulnerability Research, Reverse Engineering, Web/API Security
+- **Special Interest:** Blockchain (Smart Contract Auditing), Cryptography (ZKP, Post-Quantum)
 
 ---
 
-## Projects💻
+## Projects 💻
 
 ### ⛓️ Blockchain Security
 * **[Sui Vulnerable Vault](https://github.com/c411ister/sui_vulnerable_vault)**
@@ -39,11 +39,14 @@ I enjoy breaking things to learn how to build them better.
 
 ---
 
-## 🏷️ Badges
+## 🏷️ Badges & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-246ad0?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
