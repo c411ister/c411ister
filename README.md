@@ -7,7 +7,7 @@ I enjoy breaking things to learn how to build them better.
 ---
 
 ## Skills
-- **Languages:** Python, C#, Bash, Move (Sui)
+- **Languages:** Python, C#, Bash
 - **Security:** AI Security (LLM Jailbreaking & Prompt Injection), Offensive Security, Vulnerability Research, Reverse Engineering, Web/API Security
 - **Special Interest:** Blockchain (Smart Contract Auditing), Cryptography (ZKP, Post-Quantum)
 
