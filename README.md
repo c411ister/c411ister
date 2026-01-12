@@ -22,7 +22,7 @@ I enjoy breaking things to learn how to build them better.
     * > **Note:** Focuses on real-world DeFi attack vectors and secure mitigation strategies.
 
 ### 🚩 Offensive Security & Writeups
-* **[GLITCH - TryHackMe Walkthrough](https://github.com/c411ister/glitch-writeup)**
+* **[GLITCH - TryHackMe Walkthrough](https://github.com/c411ister/tryhackme_glitch_writeup)**
     * *The Mission:* A full chain attack on a modern Node.js environment.
     * *Highlights:* API Fuzzing, **Node.js Sandbox Escape (RCE)**, Firefox Profile Decryption, and `doas` PrivEsc.
 
