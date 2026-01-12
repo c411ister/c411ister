@@ -1,29 +1,35 @@
 # Hello 👋, I am Mehmet!
 
 I am a Computer Engineering student.  
-I want to work in cybersecurity.  
-I like coding, learning new technologies, and solving problems.
+I am dedicated to understanding the "how" behind vulnerabilities and building secure systems from the ground up.  
+I enjoy breaking things to learn how to build them better.
 
 ---
 
 ## Skills
-- **Languages:** Python, C#, Bash
-- **Fields:** Cybersecurity, CTF, Blockchain, Network Security, Penetration Testing, Cryptography
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+- **Security:** AI Security(LLM Jailbreaking & Prompt Injection), Offensive Security, Vulnerability Research, Reverse Engineering
+- **Special Interest:** BlockChain(Smart Contract Auditing), Cryptography
 
 ---
 
-## 💻 Projects
+## Projects💻
 
-### ⛓️ [Sui Vulnerable Vault](https://github.com/c411ister/sui_vulnerable_vault)
-A Sui blockchain security example. This project includes vulnerable Move code, a Python-based exploit script, and the secure solution to demonstrate smart contract vulnerabilities.
+### ⛓️ Blockchain Security
+* **[Sui Vulnerable Vault](https://github.com/c411ister/sui_vulnerable_vault)**
+    * *The Mission:* Analyzing and exploiting vulnerable Move smart contracts on the Sui blockchain.
+    * *Key Tech:* Move Language, Python Exploit Scripts, Smart Contract Auditing.
+    * > **Note:** Focuses on real-world DeFi attack vectors and secure mitigation strategies.
 
-### 🔐 [ChaCha20 File Encryptor](https://github.com/c411ister/ChaCha20-File-Encryptor)
-A Python-based tool that encrypts and decrypts files using the ChaCha20 algorithm.  
-It is good for secure file handling and learning about symmetric encryption.
+### 🚩 Offensive Security & Writeups
+* **[GLITCH - TryHackMe Walkthrough](https://github.com/c411ister/glitch-writeup)**
+    * *The Mission:* A full chain attack on a modern Node.js environment.
+    * *Highlights:* API Fuzzing, **Node.js Sandbox Escape (RCE)**, Firefox Profile Decryption, and `doas` PrivEsc.
 
-### 🔑 [Password Generator](https://github.com/c411ister/password_generator)
-A simple Python script that generates strong, random passwords.  
-It allows custom length and character sets for different security needs.
+### 🔐 Security Tooling & Cryptography
+* **[ChaCha20 File Encryptor](https://github.com/c411ister/ChaCha20-File-Encryptor)**
+    * *The Mission:* Implementing high-speed, secure symmetric encryption.
+    * *Key Tech:* Python, ChaCha20 Algorithm.
 
 ---
 
