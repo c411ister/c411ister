@@ -1,4 +1,8 @@
-# Hello 👋, I am Mehmet!
+<div align="center">
+  <img src="./banner.svg" width="100%"/>
+</div>
+
+# Hello, I am Mehmet!
 
 I am a Computer Engineering student.  
 I am dedicated to understanding the "how" behind vulnerabilities and building secure systems from the ground up.  
