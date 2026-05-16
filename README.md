@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="100%"/>
+  <img src="./banner(1).svg" width="100%"/>
 </div>
 
 # Hello, I am Mehmet!
